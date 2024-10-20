@@ -27,7 +27,7 @@ This project demonstrates how to control a servo motor connected to an ESP32 mic
 
 ## Circuit Connections
 
-Refer to the `Screenshot 2024-10-21 032832.png` file in this repository for a visual representation of the connections.
+Refer to the ![circuit diagram](Screenshot 2024-10-21 032832.png) file in this repository for a visual representation of the connections.
 
 1. Connect the servo's signal wire to GPIO 13 on the ESP32.
 2. Connect the servo's power wire to the 5V output of the ESP32.
